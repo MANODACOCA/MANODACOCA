@@ -1,21 +1,9 @@
-about:
-  pt-pt:
-    greeting: "👋 Olá! Eu sou o Diogo Oliveira"
-    section: "🚀 Sobre mim"
-    details:
-      - "📘 Estudante de Informática e Desenvolvimento de Software"
-      - "💼 Interessado nas áreas de Redes, Segurança, Desenvolvimento Web e Mobile"
-      - "🔍 Sempre explorando novas tecnologias, frameworks e boas práticas"
-
-  en-us:
-    greeting: "👋 Hello! I am Diogo Oliveira"
-    section: "🚀 About Me"
-    details:
-      - "📘 Computer Science and Software Development Student"
-      - "💼 Interested in Networking, Security, Web and Mobile Development"
-      - "🔍 Always exploring new technologies, frameworks, and best practices"
-    tags: "I.T Student | Software Developer | Network & Security Enthusiast"
-
+# 💫 About Me:
+# PT-PT 🇵🇹<br>
+👋 Olá! Eu sou o Diogo Oliveira<br>🚀 Sobre mim<br>- 📘 Estudante de Informática e Desenvolvimento de Software<br>- 💼 Interessado nas áreas de Redes, Segurança, Desenvolvimento Web e Mobile<br>- 🔍 Sempre explorando novas tecnologias, frameworks e boas práticas<br><br><br>
+# EN-US 🇺🇸<br>
+👋 Hello! I am Diogo Oliveira<br>🚀 About Me<br>- 📘 Computer Science and Software Development Student<br>- 💼 Interested in Networking, Security, Web and Mobile Development<br>- 🔍 Always exploring new technologies, frameworks, and best practices<br>
+<br>I.T Student | Software Developer | Network & Security Enthusiast<br>
 
 
 ## 🌐 Socials:
