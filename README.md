@@ -1,6 +1,6 @@
 # 💫 About Me:
 # 🇵🇹<br>
-👋 Olá! Eu sou o Diogo Oliveira<br>🚀 Sobre mim<br>- 📘 Estudante de Informática e Desenvolvimento de Software<br>- 💼 Interessado nas áreas de Redes, Segurança, Desenvolvimento Web e Mobile<br>- 🔍 Sempre explorando novas tecnologias, frameworks e boas práticas<br><br><br>
+👋 Olá! Eu sou o Diogo Oliveira<br>🚀 Sobre mim<br>- 📘 Estudante de Informática e Desenvolvimento de Software<br>- 💼 Interessado nas áreas de Redes, Segurança, Desenvolvimento Web e Mobile<br>- 🔍 Sempre explorando novas tecnologias, frameworks e boas práticas<br>
 # 🇺🇸<br>
 👋 Hello! I am Diogo Oliveira<br>🚀 About Me<br>- 📘 Computer Science and Software Development Student<br>- 💼 Interested in Networking, Security, Web and Mobile Development<br>- 🔍 Always exploring new technologies, frameworks, and best practices<br>
 <br>I.T Student | Software Developer | Network & Security Enthusiast<br>
