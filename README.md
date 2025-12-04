@@ -27,15 +27,15 @@
 <div align="center">
 
   <a href="https://github.com/MANODACOCA/PINT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MANODACOCA&repo=PINT&theme=city_lights" />
+    <img src="https://github.com/MANODACOCA/PINT/blob/main/docs/logos/logo.png" width="300" height="180" style="object-fit: cover; border-radius: 10px; margin: 10px;" alt="PINT">
   </a>
 
   <a href="https://github.com/MANODACOCA/LearningQuest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MANODACOCA&repo=LearningQuest&theme=city_lights" />
+    <img src="LINK_DA_SUA_IMAGEM_DO_LEARNINGQUEST_AQUI" width="300" height="180" style="object-fit: cover; border-radius: 10px; margin: 10px;" alt="LearningQuest">
   </a>
 
   <a href="https://github.com/MANODACOCA/Trabalho-de-SE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MANODACOCA&repo=Trabalho-de-SE&theme=city_lights" />
+    <img src="LINK_DA_SUA_IMAGEM_DO_TRABALHO_SE_AQUI" width="300" height="180" style="object-fit: cover; border-radius: 10px; margin: 10px;" alt="Trabalho SE">
   </a>
 
 </div>
