@@ -34,7 +34,7 @@
 
  <div style="display: flex; flex-direction: column; align-items: center;>
     <h3>⚔️ LearningQuest</h3>
-    <a href="https://github.com/MANODACOCA/LearningQuest">
+    <a href="https://github.com/Brun0MF/LearningQuest?tab=readme-ov-file">
       <img src="https://github.com/Brun0MF/LearningQuest/blob/main/files/logos/logoLearningQuest-NoBG.png" width="200" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LearningQuest">
     </a>
   </div>
