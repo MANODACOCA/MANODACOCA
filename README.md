@@ -24,18 +24,27 @@
 
 ### 🚀 Meus Projetos Principais
 
-<div align="center">
+ <div align="center">
 
-  <a href="https://github.com/MANODACOCA/PINT">
-    <img src="https://github.com/MANODACOCA/PINT/blob/main/docs/logos/logo.png" width="300" style="object-fit: cover; border-radius: 10px; margin: 10px;" alt="PINT">
-  </a>
+  <div style="margin-bottom: 30px;">
+    <h3>🎨 PINT</h3>
+    <a href="https://github.com/MANODACOCA/PINT">
+      <img src="https://github.com/MANODACOCA/PINT/raw/main/docs/logos/logo.png" width="400" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="PINT">
+    </a>
+  </div>
 
-  <a href="https://github.com/MANODACOCA/LearningQuest">
-    <img src="LINK_DA_SUA_IMAGEM_DO_LEARNINGQUEST_AQUI" width="300" height="180" style="object-fit: cover; border-radius: 10px; margin: 10px;" alt="LearningQuest">
-  </a>
+  <div style="margin-bottom: 30px;">
+    <h3>⚔️ LearningQuest</h3>
+    <a href="https://github.com/MANODACOCA/LearningQuest">
+      <img src="LINK_DA_SUA_IMAGEM_DO_LEARNINGQUEST_AQUI" width="400" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LearningQuest">
+    </a>
+  </div>
 
-  <a href="https://github.com/MANODACOCA/Trabalho-de-SE">
-    <img src="LINK_DA_SUA_IMAGEM_DO_TRABALHO_SE_AQUI" width="300" height="180" style="object-fit: cover; border-radius: 10px; margin: 10px;" alt="Trabalho SE">
-  </a>
+  <div style="margin-bottom: 30px;">
+    <h3>📚 Trabalho de SE</h3>
+    <a href="https://github.com/MANODACOCA/Trabalho-de-SE">
+      <img src="LINK_DA_SUA_IMAGEM_DO_TRABALHO_SE_AQUI" width="400" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Trabalho SE">
+    </a>
+  </div>
 
 </div>
