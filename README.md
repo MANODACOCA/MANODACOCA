@@ -27,7 +27,7 @@
 <div align="center">
 
   <a href="https://github.com/MANODACOCA/PINT">
-    <img src="https://github.com/MANODACOCA/PINT/blob/main/docs/logos/logo.png" width="300" height="180" style="object-fit: cover; border-radius: 10px; margin: 10px;" alt="PINT">
+    <img src="https://github.com/MANODACOCA/PINT/blob/main/docs/logos/logo.png" width="300" style="object-fit: cover; border-radius: 10px; margin: 10px;" alt="PINT">
   </a>
 
   <a href="https://github.com/MANODACOCA/LearningQuest">
