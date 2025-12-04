@@ -22,4 +22,20 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MANODACOCA&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Meus Projetos Principais
+
+<div align="center">
+
+  <a href="https://github.com/MANODACOCA/PINT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MANODACOCA&repo=PINT&theme=city_lights" />
+  </a>
+
+  <a href="https://github.com/MANODACOCA/LearningQuest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MANODACOCA&repo=LearningQuest&theme=city_lights" />
+  </a>
+
+  <a href="https://github.com/MANODACOCA/Trabalho-de-SE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MANODACOCA&repo=Trabalho-de-SE&theme=city_lights" />
+  </a>
+
+</div>
