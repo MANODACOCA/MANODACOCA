@@ -24,7 +24,6 @@
 
 ### 🚀 Meus Projetos Principais
 
- <div align="center">
   <div style="margin-bottom: 30px;">
     <h3>🎨 PINT</h3>
     <a href="https://github.com/MANODACOCA/PINT">
@@ -38,4 +37,3 @@
       <img src="https://github.com/Brun0MF/LearningQuest/blob/main/files/logos/logoLearningQuest-NoBG.png" width="200" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LearningQuest">
     </a>
   </div> 
-</div>
