@@ -24,16 +24,18 @@
 
 ### 🚀 Meus Projetos Principais
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="margin-bottom: 30px;">
     <h3>🎨 PINT</h3>
     <a href="https://github.com/MANODACOCA/PINT">
-      <img src="https://github.com/MANODACOCA/PINT/raw/main/docs/logos/logo.png" width="200" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="PINT">
+      <img src="https://github.com/MANODACOCA/PINT/raw/main/docs/logos/logo.png" width="400" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="PINT">
     </a>
   </div>
 
   <div style="margin-bottom: 30px;">
     <h3>⚔️ LearningQuest</h3>
     <a href="https://github.com/MANODACOCA/LearningQuest">
-      <img src="https://github.com/Brun0MF/LearningQuest/blob/main/files/logos/logoLearningQuest-NoBG.png" width="200" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LearningQuest">
+      <img src="LINK_DA_SUA_IMAGEM_DO_LEARNINGQUEST_AQUI" width="400" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LearningQuest">
     </a>
-  </div> 
+  </div>
+</div>
